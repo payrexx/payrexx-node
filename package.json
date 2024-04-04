@@ -1,0 +1,17 @@
+{
+  "name": "payrexx",
+  "version": "1.0.0",
+  "description": "Nodejs code example to make merchant api requests to Payrexx",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Payrexx AG",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "qs": "^6.12.0"
+  }
+}
